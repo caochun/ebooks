@@ -1,0 +1,5 @@
+Android Gradle 插件中文指南
+
+https://gradle-guide.books.yourtion.com/
+
+https://www.bookstack.cn/read/GradleGuideBook/README.md
